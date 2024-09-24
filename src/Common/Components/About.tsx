@@ -19,7 +19,7 @@ const About = () => {
                         <Col lg={6}>
                             <div className="mt-3">
                                 <h2><span className="fw-bold">About</span> Me</h2>
-                                <h4 className="mt-4">Hello! <span className="text-custom fw-bold">I'M Kerri Deo.</span></h4>
+                                <h4 className="mt-4">Hello! <span className="text-custom fw-bold">I'm Christoph Bauer</span></h4>
                                 <p className="text-muted mt-4">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
                                 <p className="text-muted mt-2">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
                                 <p className="text-muted mt-2">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>

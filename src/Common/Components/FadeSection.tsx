@@ -6,7 +6,7 @@ const FadeSection = () => {
 
     const [currentIndex, setCurrentIndex] = useState(0);
 
-    const textItems = ["Kerri Deo.", "A Graphic Designer.", "A Photographer."];
+    const textItems = ["Christoph Bauer", "a Software Developer", "a Webdesigner"];
 
     useEffect(() => {
         const interval = setInterval(() => {

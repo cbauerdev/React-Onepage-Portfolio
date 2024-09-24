@@ -14,7 +14,7 @@ const Section = () => {
                             <div className="text-center header-content mx-auto">
                                 <h4 className="text-white first-title mb-4">Welcome</h4>
                                 <h1 className="header-name text-white text-capitalize mb-0">
-                                    I'M <span className="element fw-bold">
+                                    I'm <span className="element fw-bold">
                                         <TypeAnimationSection />
                                     </span></h1>
                                 <p className="text-white mx-auto header-desc mt-4">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
