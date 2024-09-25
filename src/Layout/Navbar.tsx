@@ -88,16 +88,16 @@ const Navbar = () => {
                     <div className="collapse navbar-collapse" id="navbarNav">
                         <Nav as="ul" className="navbar-nav ms-auto" id="main_nav">
                             <Nav.Item as="li">
-                                <Nav.Link href="#home">Start</Nav.Link>
+                                <Nav.Link href="#home">Home</Nav.Link>
                             </Nav.Item>
                             <Nav.Item as="li">
-                                <Nav.Link href="#about">Info</Nav.Link>
+                                <Nav.Link href="#about">About</Nav.Link>
                             </Nav.Item>
                             <Nav.Item as="li">
                                 <Nav.Link href="#services">Services</Nav.Link>
                             </Nav.Item>
                             <Nav.Item as="li">
-                                <Nav.Link href="#client">Kunden</Nav.Link>
+                                <Nav.Link href="#client">Clients</Nav.Link>
                             </Nav.Item>
                             <Nav.Item as="li">
                                 <Nav.Link href="#portfolio">Portfolio</Nav.Link>
@@ -106,7 +106,7 @@ const Navbar = () => {
                                 <Nav.Link href="#blog">Blog</Nav.Link>
                             </Nav.Item>
                             <Nav.Item as="li">
-                                <Nav.Link href="#contact">Kontakt</Nav.Link>
+                                <Nav.Link href="#contact">Contact</Nav.Link>
                             </Nav.Item>
                         </Nav>
                     </div>
