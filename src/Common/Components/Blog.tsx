@@ -37,7 +37,7 @@ const Blog = () => {
                     <Row className="justify-content-center">
                         <Col lg={12}>
                             <div className="text-center">
-                                <h2>Our <span className="fw-bold">Blog</span></h2>
+                                <h2>MY <span className="fw-bold">Blog</span></h2>
                                 <p className="text-muted mx-auto section-subtitle mt-3">It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
                             </div>
                         </Col>
